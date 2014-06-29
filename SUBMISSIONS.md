@@ -5,3 +5,4 @@ List of Submissions from todays Meetup, to submit you will need to add your link
 * [Afroza Ahmed](http://afrozahmed98.github.io/afrozahmed98)
 * [Fernando Franco](https://github.com/fendi626/fendi626.github.io)
 * [Jason Zhang](https://github.com/JasonzxZhang/jasonzxzhang.github.com)
+* [Julius Osagiede](https://github.com/Osagiede/Osagiede.github.io)
