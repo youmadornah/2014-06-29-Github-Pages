@@ -1,10 +1,10 @@
 List of Submissions from todays Meetup, to submit you will need to add your link through a pull request.
 
-* [Dirk Kelly](codenow-dirk.github.com)
-* [Iftekar Rafi](iftekarrafi.github.com)
+* [Dirk Kelly](http://codenow-dirk.github.com)
+* [Iftekar Rafi](http://iftekarrafi.github.com)
 * [Afroza Ahmed](http://afrozahmed98.github.io/afrozahmed98)
-* [Fernando Franco](fendi626.github.io)
-* [Jason Zhang](jasonzxzhang.github.io)
-* [Julius Osagiede](Osagiede.github.io)
-* [Prabhjot and Alex](Prahb-Alex.github.io)
+* [Fernando Franco](http://fendi626.github.io)
+* [Jason Zhang](http://jasonzxzhang.github.io)
+* [Julius Osagiede](http://Osagiede.github.io)
+* [Prabhjot and Alex](http://Prahb-Alex.github.io)
 * [William Zeng](http://unexpectedpwn.github.io)
