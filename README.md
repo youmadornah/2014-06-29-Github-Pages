@@ -18,6 +18,10 @@ thing you'll need is in account.
 Visit https://github.com/join and sign up, make
 sure you choose the **free** options.
 
+## Verify your email
+
+:warning: Do this before proceeding any further.
+
 ## Configure Your Profile
 
 People will want to know who you are, so make 
