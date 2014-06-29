@@ -36,8 +36,9 @@ I recommend using the generator to get you started,
 we'll then be editing straight in Github to see the results.
 
 1. Create a New Repository https://github.com/new
-2. Visit the settings
-3. Click **Automatice Page Generator**
+2. Name it `username.github.io`
+3. Visit the settings
+4. Click **Automatice Page Generator**
 
 ## Add your Site to the SUBMISSIONS.md
 
