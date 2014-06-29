@@ -39,20 +39,16 @@ we'll then be editing straight in Github to see the results.
 2. Visit the settings
 3. Click **Automatice Page Generator**
 
-## Add your Site to the Index
+## Add your Site to the SUBMISSIONS.md
 
 We're going to keep a single index of these sites
 so that other students can see what you're building.
 
-To do this you will need to go to the listing repository
-
-https://github.com/codenoworg-nyc-meetups/student-sites
-
-1. Edit The **README.md** file
+1. Edit The **SUBMISSIONS.md** file
 2. Add Your Link (copy the syntax I used for mine)
 3. Submit a pull request
 
-We'll be reviewing all pull requests and either merging
+I'll be reviewing all pull requests and either merging
 or providing feedback on them.
 
 ## Personalize Your Website
