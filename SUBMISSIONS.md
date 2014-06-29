@@ -17,3 +17,4 @@ List of Submissions from todays Meetup, to submit you will need to add your link
 * [Rahat & Solomon](http://rahathossan.github.io)
 * [Ibnat Iqbal](http://ibnatiqbal.github.io)
 * [Prabhjot and Alex](http://prabhjotalex.github.io/)
+* [Jimmy Lau](http://noknowledge.github.io/)
