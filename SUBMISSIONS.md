@@ -12,7 +12,7 @@ List of Submissions from todays Meetup, to submit you will need to add your link
 * [Mamadou & Naji](http://naji.github.io/ourwebsite.io/)
 * [Liliana Campuzano](http://MystG.github.io)
 * [Gary Tse](http://gtse6502.github.io)
-* [Dene Morgan](http://youmadornah.github.io/idk)
+* [Dene Morgan](http://youmadornah.github.io)
 * [Marcus Robinson](http://TheRobin1226.github.io)
 * [Rahat & Solomon](http://rahathossan.github.io)
 * [Ibnat Iqbal](http://ibnatiqbal.github.io)
