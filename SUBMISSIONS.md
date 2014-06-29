@@ -2,7 +2,7 @@ List of Submissions from todays Meetup, to submit you will need to add your link
 
 * [Dirk Kelly](http://codenow-dirk.github.com)
 * [Iftekar Rafi](http://iftekarrafi.github.com)
-* [Afroza Ahmed](http://afrozahmed98.github.io/afrozahmed98)
+* [Afroza Ahmed](http://afrozahmed98.github.io/)
 * [Fernando Franco](http://fendi626.github.io)
 * [Jason Zhang](http://jasonzxzhang.github.io)
 * [Julius Osagiede](http://Osagiede.github.io)
