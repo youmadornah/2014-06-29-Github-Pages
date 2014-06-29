@@ -88,3 +88,10 @@ duplicate I'm just going to close it and direct the poster
 to the initial request.
 
 [Issue]: https://github.com/codenoworg-nyc-meetups/2014-06-29-Github-Pages/issues
+
+## Think you can fix something? Do it
+
+You can use Pull Request to submit proposals for changes to this repository.
+
+To do so, open the file in Github, edit it, and commit your changes. You'll
+then be presented with an option to open a pull request.
