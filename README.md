@@ -66,3 +66,25 @@ Some goals to try an achieve
 4. Include links to your friends github pages
 
 [Jekyll]: http://jekyllrb.com/
+
+## Qeustions, Problems, Comments?
+
+Up until now you have been fairly dependent on having a trainer
+around to answers your questions. For this meetup I'd like all
+discussion to take place online, through Github. As you progress
+in your career you will be using the internet (and most likely
+Github) increasingly more to find libraries and join in the 
+development of open source software.
+
+If you have any problems today you're going to be expected to use
+the internet to find the solution. In the event that you have
+"Googled" your issue and still need an answer you can add your
+voice to an existing one or open a new [Issue]. If you see an issue
+you know the answer to, feel free to offer help, I'll notice that sort
+of thing.
+
+One last thing: Try to avoid asking duplicate questions, if I see a 
+duplicate I'm just going to close it and direct the poster
+to the initial request.
+
+[Issue]: https://github.com/codenoworg-nyc-meetups/2014-06-29-Github-Pages/issues
